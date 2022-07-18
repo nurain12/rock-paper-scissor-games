@@ -1,5 +1,5 @@
 # rock-paper-scissor-games
-Introduction
+Introduction <br>
 Create a Rock, Paper and Scissor game in Java Programming Language where one player will be
 Computer and the other player is User (Human). Rock Paper and Scissor is a hand game usually
 played among two people where both the people form one of three objects (Rock, Paper, or
